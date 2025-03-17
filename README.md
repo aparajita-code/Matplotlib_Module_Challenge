@@ -29,3 +29,17 @@ Line and scatter plots to track trends and correlations.
 Identifies interquartile ranges (IQR) and outliers for key treatment groups.
 
 Calculates correlation coefficients and performs linear regression for Capomulin regimen data.
+
+***How to Use***
+Clone the repository.
+
+Install necessary libraries (e.g., Pandas, Matplotlib, SciPy).
+
+Run the script to perform the analysis and generate results.
+
+***Repository Contents***
+Python Script: Complete data analysis and visualization.
+
+Dataset: Includes mouse tumor volume and treatment data.
+
+Outputs: Visualizations and key statistical results.
